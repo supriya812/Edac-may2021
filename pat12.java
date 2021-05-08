@@ -1,4 +1,4 @@
-class que12
+class pat12
 {
 public static void main(String args[])
 {
